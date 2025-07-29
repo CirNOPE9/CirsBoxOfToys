@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEz/4iODo7NNNw4+GQSjf/qH/ohrmh38pwF5eqN+doLelLk31x1UHG2/Pl7AfNBmal5vJOKG2kdXAmJhtmHB0w==",
+  "success": true,
+  "projectFilePath": "/home/cirnope/.local/share/Terraria/tModLoader/ModSources/CirsBoxOfToys/CirsBoxOfToys.csproj",
+  "expectedPackageFiles": [
+    "/home/cirnope/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
