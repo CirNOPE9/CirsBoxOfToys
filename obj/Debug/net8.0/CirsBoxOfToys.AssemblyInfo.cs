@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CirsBoxOfToys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9167b5c3856f3619ae59fef1e26eda65c00f7052")]
 [assembly: System.Reflection.AssemblyProductAttribute("CirsBoxOfToys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CirsBoxOfToys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
