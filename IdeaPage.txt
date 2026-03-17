@@ -1,0 +1,11 @@
+This exists so I could jot down ideas for later
+
+general ideas:
+- Armor Bonus summons/mounts/transformations
+Like for example the ufo armor set could have a Mini Martian Saucer as a summon or as a mount
+
+-mount accessories
+usually mount stats are static, maybe we can play with it
+
+-sentry tomfoolery
+Ways to manipulate sentries, like moving them or just picking one up and carry it around
