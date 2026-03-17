@@ -9,3 +9,12 @@ usually mount stats are static, maybe we can play with it
 
 -sentry tomfoolery
 Ways to manipulate sentries, like moving them or just picking one up and carry it around
+
+mount/transformation ideas:
+- martian saucer (as listed)
+- Queen Bee
+- Harpy
+- Plantera vines (probs a hook)
+- mini captain (to go with the mini pirates from the staff)
+- Golem
+- 
